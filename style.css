@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background: linear-gradient(pink, purple);
+}
+button {
+    background-color: orchid;
+    color: white;
+    border: none;
+    outline: none;
+}
+button:hover {
+background-color: pink;
+}
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: blue;
+}
+a:hover {
+    color: black;
+}
+#download {
+    color: white;
+}
